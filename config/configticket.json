@@ -1,0 +1,21 @@
+{
+  "OWNER_ADDRESS": "0x05D5aF0dD6410924b785b9622DABB804EAA0b500",
+  "CONTRACT_ADDRESS": "0xb98D239ec6f0EDe229B36B8B54980f03331C8454",
+
+  "SCAN_LINK": "https://Etherscan.com/0xb98D239ec6f0EDe229B36B8B54980f03331C8454",
+  "NETWORK": {
+    "NAME": "mumbai testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "PLatinum Ticket",
+  "SYMBOL": "PT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 42000000000000000,
+
+  "DISPLAY_COST": 42,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/PlatinumTicket",
+  "SHOW_BACKGROUND": true
+}

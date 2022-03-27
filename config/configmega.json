@@ -1,0 +1,22 @@
+{
+  "OWNER_ADDRESS": "0x023e1Df4f2b01FaBb472907F228201a5E1e22E08",
+  "CONTRACT_ADDRESS": "0x1F193214C59e6C96EBbf5C1880c1a2067Bf01987",
+  
+  
+  "SCAN_LINK": "https://Etherscan.com/address/0x3429Fa3dC9dfD14b89F8a39Ad369d189Ce38d6Ef ",
+  "NETWORK": {
+    "NAME": "Mumbai testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "MegaverseClub",
+  "SYMBOL": "MC",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 10,
+
+  "DISPLAY_COST": 0.085,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Megaverse",
+  "SHOW_BACKGROUND": true
+}
